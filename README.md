@@ -1,2 +1,2 @@
 # dockerImages
-publich available dockerimages
+public available dockerimages
